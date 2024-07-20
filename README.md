@@ -2,7 +2,7 @@
 
 Este repositorio contiene una implementación de listas doblemente enlazadas en Java, con explicaciones conceptuales, imágenes ilustrativas y código funcional.
 
-![Lista Doblemente Enlazada](https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/dbeba297-d910-4a0a-8a3d-044c2398c130)
+![Lista Doblemente Enlazada](https://github.com/user-attachments/assets/824f9990-988e-47df-bfd0-a475661fc443)
 
 ## Tabla de Contenidos
 
@@ -33,16 +33,16 @@ A continuación se muestran algunos diagramas que ilustran la estructura de las 
 
 <table>
   <tr>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/bef4de2b-8889-4aa5-8621-ef92569715c2"></td>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/14befb73-3e20-495d-b35a-4730e81062d3" alt="Diagrama 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/a64b05b1-c7c8-449e-9060-95ba54e79310"></td>
+    <td><img src="https://github.com/user-attachments/assets/2d84f563-d997-4be1-b66b-f8402ff69ab8" alt="Diagrama 2"></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/cfcb2d09-2fa6-4af0-8a91-5525c620fe23"></td>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/defbad17-4899-4864-aca9-487ca5af1b07" alt="Diagrama 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/32c877b9-bf45-4dbd-b434-4889c6473294"></td>
+    <td><img src="https://github.com/user-attachments/assets/adc40c0e-8025-4581-917a-94f3d8e2d2b2" alt="Diagrama 2"></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/f5150da1-aa0e-47c9-a872-d74d7b505c26"></td>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/8ec65292-6985-427a-8ec9-f19a2b125c73" alt="Diagrama 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/0c7d1be5-afce-4444-ab98-24321b2a1b9b"></td>
+    <td><img src="https://github.com/user-attachments/assets/718d288b-fd3f-4b2c-85eb-57edd576efde" alt="Diagrama 2"></td>
   </tr>
    <tr>
     <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/e1536026-9be3-45c6-8401-7fd1dc4371aa"></td>
