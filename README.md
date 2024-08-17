@@ -44,14 +44,6 @@ A continuación se muestran algunos diagramas que ilustran la estructura de las 
     <td><img src="https://github.com/user-attachments/assets/0c7d1be5-afce-4444-ab98-24321b2a1b9b"></td>
     <td><img src="https://github.com/user-attachments/assets/718d288b-fd3f-4b2c-85eb-57edd576efde" alt="Diagrama 2"></td>
   </tr>
-   <tr>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/e1536026-9be3-45c6-8401-7fd1dc4371aa"></td>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/493f0b3a-c20d-4e53-9e32-49d29e9c6521" alt="Diagrama 2"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/88946e11-4901-40c9-8af6-117a96c8d1ff"></td>
-    <td><img src="https://github.com/FernandoHuilca/ListasDoblementeEnlazadas/assets/134117009/505ecdf4-d7e4-45e8-b20a-6f80f3b09c2e" alt="Diagrama 2"></td>
-  </tr>
 </table>
 
 ## Implementación en Java
